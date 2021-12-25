@@ -1,12 +1,17 @@
-### Hi there 👋
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+
+<pre align="center">
+
+   __ ___     _____          __        __          
+  / // (_)   /  _( )__ _    / /  ___ _/ /  ___ ___ 
+ / _  / /   _/ / |//  ' \  / /__/ _ `/ _ \/ -_) -_)
+/_//_/_( ) /___/  /_/_/_/ /____/\_,_/_//_/\__/\__/
+       |/                                          
+
+</pre>  
   
 
-### <div align="center">안녕하세요. 지속적인 성장을 꿈꾸는 개발자 LaHee입니다. 
-</div>  
-  
+<div align="center"> 
+ <strong> 안녕하세요. 지속적인 성장을 꿈꾸는 개발자 LaHee입니다. </strong>
 
 - 🔭   velog 주소는[https://velog.io/@yellow_ing] 입니다.  
   
@@ -19,14 +24,15 @@
 
 - ❓Web FrontEnd에 집중하며, 다양한 IT 지식을 습득하고 성장하고자 합니다. 😊  
   
+</div>
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="33%">
 
-
+  
 
 ### Frontend  
 <div align="center">  
