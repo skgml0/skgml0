@@ -13,16 +13,16 @@
 <div align="center"> 
  <strong> 안녕하세요. 지속적인 성장을 꿈꾸는 개발자 LaHee입니다. </strong>
 
-- 🔭   velog 주소는[https://velog.io/@yellow_ing] 입니다.  
+🔭   velog 주소는[https://velog.io/@yellow_ing] 입니다.  
   
 
-- 🌱  멋쟁이 사자 웹 프론트엔드 1기 수료 , SQLD & 정보처리기사 취득   
+ 🌱  멋쟁이 사자 웹 프론트엔드 1기 수료 , SQLD & 정보처리기사 취득   
   
 
-- ⚡ Fun fact: 포스코 AI & Big Data 아카데미 교육 이수 & 아동센터 멘토링 활동 1년 참가  
+ ⚡ Fun fact: 포스코 AI & Big Data 아카데미 교육 이수 & 아동센터 멘토링 활동 1년 참가  
   
 
-- ❓Web FrontEnd에 집중하며, 다양한 IT 지식을 습득하고 성장하고자 합니다. 😊  
+ ❓Web FrontEnd에 집중하며, 다양한 IT 지식을 습득하고 성장하고자 합니다. 😊  
   
 </div>
 
